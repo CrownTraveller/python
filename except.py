@@ -14,5 +14,7 @@ else:
 
 print('Pay is:', total)
 
+print("i added a readme")
+
 if 5 > 3:
  print('yeeee')
